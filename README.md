@@ -5,6 +5,9 @@ This is a research survey paper. The topic I will be tackling with is using deep
 Main papers in focus:
 
 1. Neural Combinatorial Optimization with Reinforcement Learning: https://arxiv.org/pdf/1611.09940.pdf
+2. Pointer Networks: https://papers.nips.cc/paper/5866-pointer-networks.pdf
+3. Critical analysis of hopfield's neural network model for TSP and its comparison with heuristic algorithm for shortest path computation: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/heuristic-algorithm.pdf
+4. Learning COmbinatorial Optimization Algorithms over Graphs: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/rl-graph.pdf
 
 
 ### Background paper on Application of neural networks to combinatorial optimization
@@ -15,15 +18,12 @@ Main papers in focus:
 
 3. Comparison of Neural Networks for Solving the Travelling Salesman Problem: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/comparison-tsp.pdf
 
-4. Critical analysis of hopfield's neural network model for TSP and its comparison with heuristic algorithm for shortest path computation: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/heuristic-algorithm.pdf
+4. Learning to Learn for Global Optimization of Black Box Functions: https://arxiv.org/pdf/1611.03824v1.pdf
 
-5. Learning to Learn for Global Optimization of Black Box Functions: https://arxiv.org/pdf/1611.03824v1.pdf
+5. No Free Lunch Theorems for Optimization: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/no-free-lunch.pdf
 
-6. No Free Lunch Theorems for Optimization: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/no-free-lunch.pdf
+6. Neural architecture search with reinforcement learning: https://arxiv.org/pdf/1611.01578.pdf
 
-7. Neural architecture search with reinforcement learning: https://arxiv.org/pdf/1611.01578.pdf
-
-8. Pointer Networks: https://papers.nips.cc/paper/5866-pointer-networks.pdf
 
 
 ### Papers on using RL to solve Combinatorial Optimization problems
