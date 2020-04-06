@@ -4,16 +4,16 @@ This is a research survey paper. The topic I will be tackling with is using deep
 
 Main papers in focus:
 
-1. Neural Combinatorial Optimization with Reinforcement Learning: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/Week11-.pdf
-2. Learning Combinatorial Optimization Algorithms over Graphs: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/rl-graph.pdf
-3. Pointer Networks: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/pointer-networks.pdf
-4. Critical analysis of hopfield's neural network model for TSP and its comparison with heuristic algorithm for shortest path computation: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/heuristic-algorithm.pdf
-5. Neural Networks for Combinatorial Optimization: A Review of More Than a Decade of Research: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/Neural_Networks_for_Combinatorial_Optimization_A_R.pdf
-6. Deep RL: An Overview: https://arxiv.org/pdf/1701.07274.pdf?source=post_page
-7. Reinforcement Learning for Solving the Vehicle Routing Problem: http://papers.nips.cc/paper/8190-reinforcement-learning-for-solving-the-vehicle-routing-problem.pdf
-8. Solving a New 3D Bin Packing Problem with Deep Reinforcement Learning Method: https://arxiv.org/pdf/1708.05930.pdf
-9. Learning Heuristics over Large Graphs via Deep RL: https://arxiv.org/pdf/1903.03332.pdf
-10. Exploratory Combinatorial Optimization with RL: https://arxiv.org/pdf/1909.04063.pdf
+* Neural Combinatorial Optimization with Reinforcement Learning: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/Week11-.pdf
+* Learning Combinatorial Optimization Algorithms over Graphs: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/rl-graph.pdf
+* Exploratory Combinatorial Optimization with RL: https://arxiv.org/pdf/1909.04063.pdf
+* Pointer Networks: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/pointer-networks.pdf
+* Critical analysis of hopfield's neural network model for TSP and its comparison with heuristic algorithm for shortest path computation: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/heuristic-algorithm.pdf
+* Neural Networks for Combinatorial Optimization: A Review of More Than a Decade of Research: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/Neural_Networks_for_Combinatorial_Optimization_A_R.pdf
+* Deep RL: An Overview: https://arxiv.org/pdf/1701.07274.pdf?source=post_page
+* Reinforcement Learning for Solving the Vehicle Routing Problem: http://papers.nips.cc/paper/8190-reinforcement-learning-for-solving-the-vehicle-routing-problem.pdf
+* Solving a New 3D Bin Packing Problem with Deep Reinforcement Learning Method: https://arxiv.org/pdf/1708.05930.pdf
+* Learning Heuristics over Large Graphs via Deep RL: https://arxiv.org/pdf/1903.03332.pdf
 
 
 ### Background paper on Application of neural networks to combinatorial optimization
