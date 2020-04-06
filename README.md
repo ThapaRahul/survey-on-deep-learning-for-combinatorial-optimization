@@ -9,6 +9,7 @@ Main papers in focus:
 3. Pointer Networks: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/pointer-networks.pdf
 4. Critical analysis of hopfield's neural network model for TSP and its comparison with heuristic algorithm for shortest path computation: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/heuristic-algorithm.pdf
 5. Neural Networks for Combinatorial Optimization: A Review of More Than a Decade of Research: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/Neural_Networks_for_Combinatorial_Optimization_A_R.pdf
+6. Deep RL: An Overview: https://arxiv.org/pdf/1701.07274.pdf?source=post_page
 
 
 ### Background paper on Application of neural networks to combinatorial optimization
