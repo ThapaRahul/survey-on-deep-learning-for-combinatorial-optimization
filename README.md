@@ -7,17 +7,17 @@ Main papers in focus:
 * Neural Combinatorial Optimization with Reinforcement Learning: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/Week11-.pdf
 * Learning Combinatorial Optimization Algorithms over Graphs: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/rl-graph.pdf
 * Exploratory Combinatorial Optimization with RL: https://arxiv.org/pdf/1909.04063.pdf
+* Reinforcement Learning for Solving the Vehicle Routing Problem: http://papers.nips.cc/paper/8190-reinforcement-learning-for-solving-the-vehicle-routing-problem.pdf
+* Solving a New 3D Bin Packing Problem with Deep Reinforcement Learning Method: https://arxiv.org/pdf/1708.05930.pdf
+* Solving Combinatorial Optimization Tasks by Reinforcement Learning: A General Methodology Applied to Resource-Constrained Scheduling: http://www.eecs.harvard.edu/~parkes/cs286r/spring06/papers/zhangdietterich_jair00.pdf
+* Ant-Q: A Reinforcement Learning approach to the traveling salesman problem: http://people.idsia.ch/~luca/ml95.pdf
 * Pointer Networks: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/pointer-networks.pdf
 * Critical analysis of hopfield's neural network model for TSP and its comparison with heuristic algorithm for shortest path computation: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/heuristic-algorithm.pdf
 * Neural Networks for Combinatorial Optimization: A Review of More Than a Decade of Research: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/Neural_Networks_for_Combinatorial_Optimization_A_R.pdf
 * Deep RL: An Overview: https://arxiv.org/pdf/1701.07274.pdf?source=post_page
-* Reinforcement Learning for Solving the Vehicle Routing Problem: http://papers.nips.cc/paper/8190-reinforcement-learning-for-solving-the-vehicle-routing-problem.pdf
-* Solving a New 3D Bin Packing Problem with Deep Reinforcement Learning Method: https://arxiv.org/pdf/1708.05930.pdf
 * Learning Heuristics over Large Graphs via Deep RL: https://arxiv.org/pdf/1903.03332.pdf
 * Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon: https://arxiv.org/pdf/1811.06128.pdf
-* Solving Combinatorial Optimization Tasks by Reinforcement Learning: A General Methodology Applied to Resource-Constrained Scheduling: http://www.eecs.harvard.edu/~parkes/cs286r/spring06/papers/zhangdietterich_jair00.pdf
 
-* Ant-Q: A Reinforcement Learning approach to the traveling salesman problem: http://people.idsia.ch/~luca/ml95.pdf
 
 
 ### Supplemantary Papers
