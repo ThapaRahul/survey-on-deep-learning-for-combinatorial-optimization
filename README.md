@@ -5,8 +5,31 @@ This is a research survey paper. The topic I will be tackling with is using deep
 **Sections**
 
 Using approaches other than neural network
+* WORST-CASE ANALYSIS OF A NEW HEURISTIC FOR THE TRAVELLING SALESMAN PROBLEM: https://apps.dtic.mil/dtic/tr/fulltext/u2/a025602.pdf
+* Concorde TSP Solver: http://www.math.uwaterloo.ca/tsp/concorde/
+* Implementing the Dantzig-Fulkerson-Johnson algorithm for large traveling salesman problems: https://www.math.uwaterloo.ca/~bico/papers/dfj_mathprog.pdf
+* An effective heuristic algorithm for the traveling-salesman problem: https://www.cs.princeton.edu/~bwk/btl.mirror/tsp.pdf
+* Google Or-Tools: https://developers.google.com/optimization/routing
+* Critical analysis of hopfield's neural network model for TSP and its comparison with heuristic algorithm for shortest path computation: https://github.com/ThapaRahul/survey-on-deep-learning-for-combinatorial-optimization/blob/master/sarwar.pdf
+* Comparison of Neural Networks for Solving the Travelling Salesman Problem: https://github.com/ThapaRahul/survey-on-deep-learning-for-combinatorial-optimization/blob/master/maire.pdf
+
 
 Using neural networks
+
+Hopfield
+* Neural networks and physical systems with emergent collective computational abilities: https://www.pnas.org/content/pnas/79/8/2554.full.pdf
+* Neurons with graded response have collective computational properties like those of two-state neurons: https://www.pnas.org/content/pnas/81/10/3088.full.pdf
+* "Neural" Computation of Decisions in Optimization Problems: https://github.com/ThapaRahul/survey-on-deep-learning-for-combinatorial-optimization/blob/master/hopfield-1985.pdf
+* A theoretical investigation into the performance of the Hopfield model: https://github.com/ThapaRahul/survey-on-deep-learning-for-combinatorial-optimization/blob/master/aiyer-hopfield.pdf
+
+Elastic Net
+* An analogue approach to the travelling salesman problem using an elastic net method: https://www.nature.com/articles/326689a0.pdf?origin=ppub
+
+Self Organizing Maps
+* Self-organizing feature maps and the Travelling Salesman Problem.
+* Solving a combinatorial problem via self-organizing process: an application of the Kohonen
+algorithm to the traveling salesman problem
+* The self-organizing map: https://sci2s.ugr.es/keel/pdf/algorithm/articulo/1990-Kohonen-PIEEE.pdf
 * Critical analysis of hopfield's neural network model for TSP and its comparison with heuristic algorithm for shortest path computation: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/heuristic-algorithm.pdf
 * Neural Networks for Combinatorial Optimization: A Review of More Than a Decade of Research: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/Neural_Networks_for_Combinatorial_Optimization_A_R.pdf
 
