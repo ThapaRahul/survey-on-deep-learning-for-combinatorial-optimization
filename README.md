@@ -4,6 +4,7 @@ This is a research survey paper. The topic I will be tackling with is using deep
 
 Main papers in focus:
 
+* Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search: http://papers.nips.cc/paper/7335-combinatorial-optimization-with-graph-convolutional-networks-and-guided-tree-search.pdf 
 * Neural Combinatorial Optimization with Reinforcement Learning: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/Week11-.pdf
 * Learning Combinatorial Optimization Algorithms over Graphs: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/rl-graph.pdf
 * Exploratory Combinatorial Optimization with RL: https://arxiv.org/pdf/1909.04063.pdf
