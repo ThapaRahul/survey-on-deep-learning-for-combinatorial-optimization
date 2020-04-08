@@ -34,6 +34,7 @@ algorithm to the traveling salesman problem
 * Neural Networks for Combinatorial Optimization: A Review of More Than a Decade of Research: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/Neural_Networks_for_Combinatorial_Optimization_A_R.pdf
 
 Using Deep Learning
+* Pointer Networks: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/pointer-networks.pdf
 * Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search: http://papers.nips.cc/paper/7335-combinatorial-optimization-with-graph-convolutional-networks-and-guided-tree-search.pdf 
 * Neural Combinatorial Optimization with Reinforcement Learning: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/Week11-.pdf
 * Learning Combinatorial Optimization Algorithms over Graphs: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/rl-graph.pdf
@@ -45,7 +46,6 @@ Using Deep Learning
 ### Supplemantary Papers
 * Solving Combinatorial Optimization Tasks by Reinforcement Learning: A General Methodology Applied to Resource-Constrained Scheduling: http://www.eecs.harvard.edu/~parkes/cs286r/spring06/papers/zhangdietterich_jair00.pdf
 * Ant-Q: A Reinforcement Learning approach to the traveling salesman problem: http://people.idsia.ch/~luca/ml95.pdf
-* Pointer Networks: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/pointer-networks.pdf
 * Deep RL: An Overview: https://arxiv.org/pdf/1701.07274.pdf?source=post_page
 * Learning Heuristics over Large Graphs via Deep RL: https://arxiv.org/pdf/1903.03332.pdf
 * Machine Learning for Combinatorial Optimization: a Methodological Tour d’Horizon: https://arxiv.org/pdf/1811.06128.pdf
