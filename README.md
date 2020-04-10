@@ -56,6 +56,7 @@ Using Deep Learning
 * No Free Lunch Theorems for Optimization: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/no-free-lunch.pdf
 * Neural architecture search with reinforcement learning: https://arxiv.org/pdf/1611.01578.pdf
 * Global search in combinatorial optimization using reinforcement learning algorithms: https://github.com/ThapaRahul/survey-on-deep-reinforcement-learning-for-combinatorial-optimization/blob/master/Global_search_in_combinatorial_optimization_using_.pdf
+* A Brief Survey of Deep Reinforcement Learning: https://arxiv.org/pdf/1708.05866.pdf
 
 
 
