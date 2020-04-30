@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
+The style file: icml2018.bst
+Database file #1: references.bib
+Repeated entry---line 694 of file references.bib
+ : @article{kipf2016semi
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 701 of file references.bib
+ : @article{mnih2015human
+ :                       ,
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in wikipedia_2020
+Warning--to sort, need author or key in google
+Warning--empty year in google
+Warning--empty year in satcompetition2017
+Warning--can't use both volume and number fields in desieno1988adding
+Warning--empty year in stanfordlargenetworkdatasetcollection
+You've used 65 entries,
+            2773 wiz_defined-function locations,
+            971 strings with 15989 characters,
+and the built_in function-call counts, 32311 in all, are:
+= -- 3003
+> -- 1655
+< -- 57
++ -- 566
+- -- 501
+* -- 2549
+:= -- 4728
+add.period$ -- 203
+call.type$ -- 65
+change.case$ -- 358
+chr.to.int$ -- 65
+cite$ -- 138
+duplicate$ -- 1525
+empty$ -- 2746
+format.name$ -- 598
+if$ -- 6945
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 62
+newline$ -- 331
+num.names$ -- 252
+pop$ -- 731
+preamble$ -- 1
+purify$ -- 294
+quote$ -- 0
+skip$ -- 1218
+stack$ -- 0
+substring$ -- 1569
+swap$ -- 261
+text.length$ -- 22
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 705
+warning$ -- 6
+while$ -- 309
+width$ -- 0
+write$ -- 846
+(There were 2 error messages)

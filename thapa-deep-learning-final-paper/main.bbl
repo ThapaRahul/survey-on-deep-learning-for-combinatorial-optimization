@@ -1,0 +1,425 @@
+\begin{thebibliography}{65}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[goo()]{google}
+Vehicle routing | or-tools | google developers.
+\newblock URL \url{https://developers.google.com/optimization/routing}.
+
+\bibitem[wik(2020)]{wikipedia_2020}
+Travelling salesman problem, Apr 2020.
+\newblock URL \url{https://en.wikipedia.org/wiki/Travelling_salesman_problem}.
+
+\bibitem[Aiyer et~al.(1990)Aiyer, Niranjan, and Fallside]{aiyer1990theoretical}
+Aiyer, Sreeram~VB, Niranjan, Mahesan, and Fallside, Frank.
+\newblock A theoretical investigation into the performance of the hopfield
+  model.
+\newblock \emph{IEEE transactions on neural networks}, 1\penalty0 (2):\penalty0
+  204--215, 1990.
+
+\bibitem[Andrade et~al.(2012)Andrade, Resende, and Werneck]{andrade2012fast}
+Andrade, Diogo~V, Resende, Mauricio~GC, and Werneck, Renato~F.
+\newblock Fast local search for the maximum independent set problem.
+\newblock \emph{Journal of Heuristics}, 18\penalty0 (4):\penalty0 525--547,
+  2012.
+
+\bibitem[Angeniol et~al.(1988)Angeniol, Vaubois, and
+  Le~Texier]{angeniol1988self}
+Angeniol, Bernard, Vaubois, Gael De La~Croix, and Le~Texier, Jean-Yves.
+\newblock Self-organizing feature maps and the travelling salesman problem.
+\newblock \emph{Neural Networks}, 1\penalty0 (4):\penalty0 289--293, 1988.
+
+\bibitem[Applegate et~al.(2006)Applegate, Bixby, Chvatal, and
+  Cook]{applegate2006traveling}
+Applegate, David~L, Bixby, Robert~E, Chvatal, Vasek, and Cook, William~J.
+\newblock \emph{The traveling salesman problem: a computational study}.
+\newblock Princeton university press, 2006.
+
+\bibitem[Bahdanau et~al.(2014)Bahdanau, Cho, and Bengio]{bahdanau2014neural}
+Bahdanau, Dzmitry, Cho, Kyunghyun, and Bengio, Yoshua.
+\newblock Neural machine translation by jointly learning to align and
+  translate.
+\newblock \emph{arXiv preprint arXiv:1409.0473}, 2014.
+
+\bibitem[Balyo et~al.()Balyo, JH~Heule, and Matti]{satcompetition2017}
+Balyo, Tomas, JH~Heule, Marijin, and Matti, Jarvisalo.
+\newblock Sat competition 2017.
+\newblock URL \url{https://baldur.iti.kit.edu/sat-competition-2017/}.
+
+\bibitem[Barrett et~al.(2019)Barrett, Clements, Foerster, and
+  Lvovsky]{barrett2019exploratory}
+Barrett, Thomas~D, Clements, William~R, Foerster, Jakob~N, and Lvovsky, Alex~I.
+\newblock Exploratory combinatorial optimization with reinforcement learning.
+\newblock \emph{arXiv preprint arXiv:1909.04063}, 2019.
+
+\bibitem[Bello et~al.(2016)Bello, Pham, Le, Norouzi, and
+  Bengio]{bello2016neural}
+Bello, Irwan, Pham, Hieu, Le, Quoc~V, Norouzi, Mohammad, and Bengio, Samy.
+\newblock Neural combinatorial optimization with reinforcement learning.
+\newblock \emph{arXiv preprint arXiv:1611.09940}, 2016.
+
+\bibitem[Bengio et~al.(2013)Bengio, Courville, and
+  Vincent]{bengio2013representation}
+Bengio, Yoshua, Courville, Aaron, and Vincent, Pascal.
+\newblock Representation learning: A review and new perspectives.
+\newblock \emph{IEEE transactions on pattern analysis and machine
+  intelligence}, 35\penalty0 (8):\penalty0 1798--1828, 2013.
+
+\bibitem[Bengio et~al.(2018)Bengio, Lodi, and Prouvost]{bengio2018machine}
+Bengio, Yoshua, Lodi, Andrea, and Prouvost, Antoine.
+\newblock Machine learning for combinatorial optimization: a methodological
+  tour d'horizon.
+\newblock \emph{arXiv preprint arXiv:1811.06128}, 2018.
+
+\bibitem[Bishop et~al.(1997)Bishop, Svens{\'e}n, and Williams]{bishop1997gtm}
+Bishop, Christopher~M, Svens{\'e}n, Markus, and Williams, Christopher~KI.
+\newblock Gtm: A principled alternative to the self-organizing map.
+\newblock In \emph{Advances in neural information processing systems}, pp.\
+  354--360, 1997.
+
+\bibitem[Burke(1994)]{burke1994neural}
+Burke, Laura~I.
+\newblock Neural methods for the traveling salesman problem: insights from
+  operations research.
+\newblock \emph{Neural Networks}, 7\penalty0 (4):\penalty0 681--690, 1994.
+
+\bibitem[Burke \& Damany(1992)Burke and Damany]{burke1992guilty}
+Burke, Laura~I and Damany, Poulomi.
+\newblock The guilty net for the traveling salesman problem.
+\newblock \emph{Computers \& Operations Research}, 19\penalty0 (3-4):\penalty0
+  255--265, 1992.
+
+\bibitem[Carpenter \& Grossberg(1987)Carpenter and Grossberg]{carpenter1987art}
+Carpenter, Gail~A and Grossberg, Stephen.
+\newblock Art 2: Self-organization of stable category recognition codes for
+  analog input patterns.
+\newblock \emph{Applied optics}, 26\penalty0 (23):\penalty0 4919--4930, 1987.
+
+\bibitem[Christofides(1976)]{christofides1976worst}
+Christofides, Nicos.
+\newblock Worst-case analysis of a new heuristic for the travelling salesman
+  problem.
+\newblock Technical report, Carnegie-Mellon Univ Pittsburgh Pa Management
+  Sciences Research Group, 1976.
+
+\bibitem[Dai et~al.(2016)Dai, Dai, and Song]{dai2016discriminative}
+Dai, Hanjun, Dai, Bo, and Song, Le.
+\newblock Discriminative embeddings of latent variable models for structured
+  data.
+\newblock In \emph{International conference on machine learning}, pp.\
+  2702--2711, 2016.
+
+\bibitem[den Bout et~al.(1988)]{den1988traveling}
+den Bout, Van et~al.
+\newblock A traveling salesman objective function that works.
+\newblock In \emph{IEEE 1988 International Conference on Neural Networks}, pp.\
+   299--303. IEEE, 1988.
+
+\bibitem[DeSieno(1988)]{desieno1988adding}
+DeSieno, Duane.
+\newblock Adding a conscience to competitive learning.
+\newblock In \emph{IEEE international conference on neural networks}, volume~1,
+  pp.\  117--124. Institute of Electrical and Electronics Engineers New York,
+  1988.
+
+\bibitem[Durbin \& Willshaw(1987)Durbin and Willshaw]{durbin1987analogue}
+Durbin, Richard and Willshaw, David.
+\newblock An analogue approach to the travelling salesman problem using an
+  elastic net method.
+\newblock \emph{Nature}, 326\penalty0 (6114):\penalty0 689--691, 1987.
+
+\bibitem[Feo et~al.(1994)Feo, Resende, and Smith]{feo1994greedy}
+Feo, Thomas~A, Resende, Mauricio~GC, and Smith, Stuart~H.
+\newblock A greedy randomized adaptive search procedure for maximum independent
+  set.
+\newblock \emph{Operations Research}, 42\penalty0 (5):\penalty0 860--878, 1994.
+
+\bibitem[Fort(1988)]{fort1988solving}
+Fort, JC.
+\newblock Solving a combinatorial problem via self-organizing process: An
+  application of the kohonen algorithm to the traveling salesman problem.
+\newblock \emph{Biological cybernetics}, 59\penalty0 (1):\penalty0 33--40,
+  1988.
+
+\bibitem[Gee \& Prager(1995)Gee and Prager]{gee1995limitations}
+Gee, Andrew~H and Prager, Richard~W.
+\newblock Limitations of neural networks for solving traveling salesman
+  problems.
+\newblock \emph{IEEE Transactions on Neural Networks}, 6\penalty0 (1):\penalty0
+  280--282, 1995.
+
+\bibitem[Graham(1972)]{graham1972efficient}
+Graham, Ronald~L.
+\newblock An efficient algorithm for determining the convex hull of a finite
+  planar set.
+\newblock \emph{Info. Pro. Lett.}, 1:\penalty0 132--133, 1972.
+
+\bibitem[Gu et~al.(2016)Gu, Lillicrap, Ghahramani, Turner, and Levine]{gu2016q}
+Gu, Shixiang, Lillicrap, Timothy, Ghahramani, Zoubin, Turner, Richard~E, and
+  Levine, Sergey.
+\newblock Q-prop: Sample-efficient policy gradient with an off-policy critic.
+\newblock \emph{arXiv preprint arXiv:1611.02247}, 2016.
+
+\bibitem[Helsgaun(2000)]{helsgaun2000effective}
+Helsgaun, Keld.
+\newblock An effective implementation of the lin--kernighan traveling salesman
+  heuristic.
+\newblock \emph{European Journal of Operational Research}, 126\penalty0
+  (1):\penalty0 106--130, 2000.
+
+\bibitem[Hopfield(1982)]{hopfield1982neural}
+Hopfield, John~J.
+\newblock Neural networks and physical systems with emergent collective
+  computational abilities.
+\newblock \emph{Proceedings of the national academy of sciences}, 79\penalty0
+  (8):\penalty0 2554--2558, 1982.
+
+\bibitem[Hopfield \& Tank(1985)Hopfield and Tank]{hopfield1985neural}
+Hopfield, John~J and Tank, David~W.
+\newblock “neural” computation of decisions in optimization problems.
+\newblock \emph{Biological cybernetics}, 52\penalty0 (3):\penalty0 141--152,
+  1985.
+
+\bibitem[Jarvis(1973)]{jarvis1973identification}
+Jarvis, Ray~A.
+\newblock On the identification of the convex hull of a finite set of points in
+  the plane.
+\newblock \emph{Information processing letters}, 2\penalty0 (1):\penalty0
+  18--21, 1973.
+
+\bibitem[Joel et~al.(2002)Joel, Niv, and Ruppin]{joel2002actor}
+Joel, Daphna, Niv, Yael, and Ruppin, Eytan.
+\newblock Actor--critic models of the basal ganglia: New anatomical and
+  computational perspectives.
+\newblock \emph{Neural networks}, 15\penalty0 (4-6):\penalty0 535--547, 2002.
+
+\bibitem[J{\"u}nger et~al.(1994)J{\"u}nger, Thienel, and
+  Reinelt]{junger1994provably}
+J{\"u}nger, Michael, Thienel, Stefan, and Reinelt, Gerhard.
+\newblock Provably good solutions for the traveling salesman problem.
+\newblock \emph{Zeitschrift f{\"u}r Operations Research}, 40\penalty0
+  (2):\penalty0 183--217, 1994.
+
+\bibitem[Kamgar-Parsi(1992)]{kamgar1992dynamical}
+Kamgar-Parsi, Behzad.
+\newblock Dynamical stability and parameter selection in neural optimization.
+\newblock In \emph{[Proceedings 1992] IJCNN International Joint Conference on
+  Neural Networks}, volume~4, pp.\  566--571. IEEE, 1992.
+
+\bibitem[Karp(1972)]{karp1972reducibility}
+Karp, Richard~M.
+\newblock Reducibility among combinatorial problems.
+\newblock In \emph{Complexity of computer computations}, pp.\  85--103.
+  Springer, 1972.
+
+\bibitem[Khalil et~al.(2017)Khalil, Dai, Zhang, Dilkina, and
+  Song]{khalil2017learning}
+Khalil, Elias, Dai, Hanjun, Zhang, Yuyu, Dilkina, Bistra, and Song, Le.
+\newblock Learning combinatorial optimization algorithms over graphs.
+\newblock In \emph{Advances in Neural Information Processing Systems}, pp.\
+  6348--6358, 2017.
+
+\bibitem[Kipf \& Welling(2016)Kipf and Welling]{kipf2016semi}
+Kipf, Thomas~N and Welling, Max.
+\newblock Semi-supervised classification with graph convolutional networks.
+\newblock \emph{arXiv preprint arXiv:1609.02907}, 2016.
+
+\bibitem[Kohonen(1982)]{kohonen1982self}
+Kohonen, Teuvo.
+\newblock Self-organized formation of topologically correct feature maps.
+\newblock \emph{Biological cybernetics}, 43\penalty0 (1):\penalty0 59--69,
+  1982.
+
+\bibitem[Kohonen(1990)]{kohonen1990self}
+Kohonen, Teuvo.
+\newblock The self-organizing map.
+\newblock \emph{Proceedings of the IEEE}, 78\penalty0 (9):\penalty0 1464--1480,
+  1990.
+
+\bibitem[La~Maire \& Mladenov(2012)La~Maire and Mladenov]{la2012comparison}
+La~Maire, Bert~FJ and Mladenov, Valeri~M.
+\newblock Comparison of neural networks for solving the travelling salesman
+  problem.
+\newblock In \emph{11th Symposium on Neural Network Applications in Electrical
+  Engineering}, pp.\  21--24. IEEE, 2012.
+
+\bibitem[Laporte(1992)]{laporte1992traveling}
+Laporte, Gilbert.
+\newblock The traveling salesman problem: An overview of exact and approximate
+  algorithms.
+\newblock \emph{European Journal of Operational Research}, 59\penalty0
+  (2):\penalty0 231--247, 1992.
+
+\bibitem[LeCun et~al.(2015)LeCun, Bengio, and Hinton]{lecun2015deep}
+LeCun, Yann, Bengio, Yoshua, and Hinton, Geoffrey.
+\newblock Deep learning.
+\newblock \emph{nature}, 521\penalty0 (7553):\penalty0 436--444, 2015.
+
+\bibitem[Leskovec \& Krevl()Leskovec and
+  Krevl]{stanfordlargenetworkdatasetcollection}
+Leskovec, Jure and Krevl, Andrej.
+\newblock Snap datasets: Stanford large network dataset collection.
+\newblock URL \url{http://snap.stanford.edu/data/}.
+
+\bibitem[Li et~al.(2018)Li, Chen, and Koltun]{li2018combinatorial}
+Li, Zhuwen, Chen, Qifeng, and Koltun, Vladlen.
+\newblock Combinatorial optimization with graph convolutional networks and
+  guided tree search.
+\newblock In \emph{Advances in Neural Information Processing Systems}, pp.\
+  539--548, 2018.
+
+\bibitem[Lin \& Kernighan(1973)Lin and Kernighan]{lin1973effective}
+Lin, Shen and Kernighan, Brian~W.
+\newblock An effective heuristic algorithm for the traveling-salesman problem.
+\newblock \emph{Operations research}, 21\penalty0 (2):\penalty0 498--516, 1973.
+
+\bibitem[Lin et~al.(1994)Lin, Delgado-Frias, Pechanek, and
+  Vassiliadis]{lin1994impact}
+Lin, Wei, Delgado-Frias, JG, Pechanek, Gerald~G, and Vassiliadis, Stamatis.
+\newblock Impact of energy function on a neural network model for optimization
+  problems.
+\newblock In \emph{Proceedings of 1994 IEEE International Conference on Neural
+  Networks (ICNN'94)}, volume~7, pp.\  4518--4523. IEEE, 1994.
+
+\bibitem[Lister(1993)]{lister1993annealing}
+Lister, Raymond.
+\newblock Annealing networks and fractal landscapes.
+\newblock In \emph{IEEE International Conference on Neural Networks}, pp.\
+  257--262. IEEE, 1993.
+
+\bibitem[Mittal et~al.(2019)Mittal, Dhawan, Manchanda, Medya, Ranu, and
+  Singh]{mittal2019learning}
+Mittal, Akash, Dhawan, Anuj, Manchanda, Sahil, Medya, Sourav, Ranu, Sayan, and
+  Singh, Ambuj.
+\newblock Learning heuristics over large graphs via deep reinforcement
+  learning.
+\newblock \emph{arXiv preprint arXiv:1903.03332}, 2019.
+
+\bibitem[Mnih et~al.(2015)Mnih, Kavukcuoglu, Silver, Rusu, Veness, Bellemare,
+  Graves, Riedmiller, Fidjeland, Ostrovski, et~al.]{mnih2015human}
+Mnih, Volodymyr, Kavukcuoglu, Koray, Silver, David, Rusu, Andrei~A, Veness,
+  Joel, Bellemare, Marc~G, Graves, Alex, Riedmiller, Martin, Fidjeland,
+  Andreas~K, Ostrovski, Georg, et~al.
+\newblock Human-level control through deep reinforcement learning.
+\newblock \emph{Nature}, 518\penalty0 (7540):\penalty0 529--533, 2015.
+
+\bibitem[Mnih et~al.(2016)Mnih, Badia, Mirza, Graves, Lillicrap, Harley,
+  Silver, and Kavukcuoglu]{mnih2016asynchronous}
+Mnih, Volodymyr, Badia, Adria~Puigdomenech, Mirza, Mehdi, Graves, Alex,
+  Lillicrap, Timothy, Harley, Tim, Silver, David, and Kavukcuoglu, Koray.
+\newblock Asynchronous methods for deep reinforcement learning.
+\newblock In \emph{International conference on machine learning}, pp.\
+  1928--1937, 2016.
+
+\bibitem[Nazari et~al.(2018)Nazari, Oroojlooy, Snyder, and
+  Tak{\'a}c]{nazari2018reinforcement}
+Nazari, Mohammadreza, Oroojlooy, Afshin, Snyder, Lawrence, and Tak{\'a}c,
+  Martin.
+\newblock Reinforcement learning for solving the vehicle routing problem.
+\newblock In \emph{Advances in Neural Information Processing Systems}, pp.\
+  9839--9849, 2018.
+
+\bibitem[Padberg \& Rinaldi(1991)Padberg and Rinaldi]{padberg1991branch}
+Padberg, Manfred and Rinaldi, Giovanni.
+\newblock A branch-and-cut algorithm for the resolution of large-scale
+  symmetric traveling salesman problems.
+\newblock \emph{SIAM review}, 33\penalty0 (1):\penalty0 60--100, 1991.
+
+\bibitem[Papadimitriou \& Steiglitz(1998)Papadimitriou and
+  Steiglitz]{papadimitriou1998combinatorial}
+Papadimitriou, Christos~H and Steiglitz, Kenneth.
+\newblock \emph{Combinatorial optimization: algorithms and complexity}.
+\newblock Courier Corporation, 1998.
+
+\bibitem[Rebay(1993)]{rebay1993efficient}
+Rebay, Stefano.
+\newblock Efficient unstructured mesh generation by means of delaunay
+  triangulation and bowyer-watson algorithm.
+\newblock \emph{Journal of computational physics}, 106\penalty0 (1):\penalty0
+  125--138, 1993.
+
+\bibitem[Sarwar \& Bhatti(2012)Sarwar and Bhatti]{sarwar2012critical}
+Sarwar, Farah and Bhatti, Abdul~Aziz.
+\newblock Critical analysis of hopfield's neural network model and heuristic
+  algorithm for shortest path computation for routing in computer networks.
+\newblock In \emph{Proceedings of 2012 9th International Bhurban Conference on
+  Applied Sciences \& Technology (IBCAST)}, pp.\  115--119. IEEE, 2012.
+
+\bibitem[Sen et~al.(2008)Sen, Namata, Bilgic, Getoor, Galligher, and
+  Eliassi-Rad]{sen2008collective}
+Sen, Prithviraj, Namata, Galileo, Bilgic, Mustafa, Getoor, Lise, Galligher,
+  Brian, and Eliassi-Rad, Tina.
+\newblock Collective classification in network data.
+\newblock \emph{AI magazine}, 29\penalty0 (3):\penalty0 93--93, 2008.
+
+\bibitem[Smith(1999)]{smith1999neural}
+Smith, Kate~A.
+\newblock Neural networks for combinatorial optimization: a review of more than
+  a decade of research.
+\newblock \emph{INFORMS Journal on Computing}, 11\penalty0 (1):\penalty0
+  15--34, 1999.
+
+\bibitem[Smith-Miles \& Bowly(2015)Smith-Miles and Bowly]{smith2015generating}
+Smith-Miles, Kate and Bowly, Simon.
+\newblock Generating new test instances by evolving in instance space.
+\newblock \emph{Computers \& Operations Research}, 63:\penalty0 102--113, 2015.
+
+\bibitem[Sutskever et~al.(2014)Sutskever, Vinyals, and
+  Le]{sutskever2014sequence}
+Sutskever, Ilya, Vinyals, Oriol, and Le, Quoc~V.
+\newblock Sequence to sequence learning with neural networks.
+\newblock In \emph{Advances in neural information processing systems}, pp.\
+  3104--3112, 2014.
+
+\bibitem[Vakhutinsky \& Golden(1994)Vakhutinsky and
+  Golden]{vakhutinsky1994solving}
+Vakhutinsky, Andrew~I and Golden, BL.
+\newblock Solving vehicle routing problems using elastic nets.
+\newblock In \emph{Proceedings of 1994 IEEE International Conference on Neural
+  Networks (ICNN'94)}, volume~7, pp.\  4535--4540. IEEE, 1994.
+
+\bibitem[Vinyals et~al.(2015)Vinyals, Fortunato, and
+  Jaitly]{vinyals2015pointer}
+Vinyals, Oriol, Fortunato, Meire, and Jaitly, Navdeep.
+\newblock Pointer networks.
+\newblock In \emph{Advances in neural information processing systems}, pp.\
+  2692--2700, 2015.
+
+\bibitem[Voudouris \& Tsang(1999)Voudouris and Tsang]{voudouris1999guided}
+Voudouris, Christos and Tsang, Edward.
+\newblock Guided local search and its application to the traveling salesman
+  problem.
+\newblock \emph{European journal of operational research}, 113\penalty0
+  (2):\penalty0 469--499, 1999.
+
+\bibitem[Williams(1992)]{williams1992simple}
+Williams, Ronald~J.
+\newblock Simple statistical gradient-following algorithms for connectionist
+  reinforcement learning.
+\newblock \emph{Machine learning}, 8\penalty0 (3-4):\penalty0 229--256, 1992.
+
+\bibitem[Wilson \& Pawley(1988)Wilson and Pawley]{wilson1988stability}
+Wilson, GV and Pawley, GS.
+\newblock On the stability of the travelling salesman problem algorithm of
+  hopfield and tank.
+\newblock \emph{Biological Cybernetics}, 58\penalty0 (1):\penalty0 63--70,
+  1988.
+
+\bibitem[Xu et~al.(2007)Xu, Boussemart, Hemery, and Lecoutre]{xu2007random}
+Xu, Ke, Boussemart, Fr{\'e}d{\'e}ric, Hemery, Fred, and Lecoutre, Christophe.
+\newblock Random constraint satisfaction: Easy generation of hard (satisfiable)
+  instances.
+\newblock \emph{Artificial intelligence}, 171\penalty0 (8-9):\penalty0
+  514--534, 2007.
+
+\bibitem[Yao et~al.(1988)]{yao1988alternative}
+Yao, Wang et~al.
+\newblock Alternative networks for solving the traveling salesman problem and
+  the list-matching problem.
+\newblock In \emph{IEEE 1988 International Conference on Neural Networks}, pp.\
+   333--340. IEEE, 1988.
+
+\end{thebibliography}

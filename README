@@ -1,0 +1,35 @@
+LaTeX paper template by Ben Mitchell (benjamin.r.mitchell@villanova.edu),
+released under CC-BY license 
+
+Last updated: 2018-03-22
+
+
+Files:
+
+  hw4template.tex - the LaTeX source for the template document 
+
+  templateBibliography.bib - the BibTeX source containing the citation
+      descriptions
+
+  Makefile - a makefile that will automatically generate the document
+
+  images/ - a directory for images that are used in the document
+
+  output/ - the directory where built documents and output files are put
+
+
+Instructions:
+  To compile the template (on a Unix-style system), simply type `make` on the
+  commandline from this directory.  The template will automatically be
+  compiled, and the finished result will be put in the output/ directory.
+
+  This procedure is controled by the Makefile, which is simply a way of
+  automating the build process so you don't have to type the same commands by
+  hand over and over again.  See the comments in the Makefile for more details
+  on how it works, or look up the online documentation for GNU Make.
+
+  Alternatively, you should be able to import these files into whatever GUI
+  system you like; offline versions include things like TeXStudio, TeXWorks,
+  TeXShop, etc. (just do a google search).  Online versions include things like
+  overleaf.com, which is a cloud-based LaTeX environment with a web-based front
+  end.
